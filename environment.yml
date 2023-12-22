@@ -1,0 +1,5 @@
+name: project_environment
+dependencies:
+  - numpy
+  - pandas
+  - scipy
